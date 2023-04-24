@@ -1,0 +1,6 @@
+#include <iostream>
+#include <CSMemoria.h>
+
+int main(int argc, char** argv){
+	CSMemoria *MiMemoria = new CSMemoria();
+}

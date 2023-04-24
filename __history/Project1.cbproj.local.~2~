@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/22 19:08:11.000.910,=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/04/22 19:08:11.000.904,=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/04/22 19:08:42.000.422,C:\Users\jalej\Documents\RAD\MemoriaTarea\File1.cpp=C:\Users\jalej\Documents\RAD\File1.cpp</Transaction>
+    <Transaction>2023/04/22 19:08:54.000.605,=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/04/22 19:09:11.000.855,C:\Users\jalej\Documents\RAD\MemoriaTarea\CSMemoria.h=C:\Users\jalej\Documents\RAD\Unit1.h</Transaction>
+    <Transaction>2023/04/22 19:09:11.000.855,C:\Users\jalej\Documents\RAD\MemoriaTarea\CSMemoria.cpp=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/04/22 19:09:24.000.828,C:\Users\jalej\Documents\RAD\MemoriaTarea\Main.cpp=C:\Users\jalej\Documents\RAD\MemoriaTarea\File1.cpp</Transaction>
+    <Transaction>2023/04/22 19:25:36.000.097,C:\Users\jalej\Documents\RAD\MemoriaTarea\Project1.cbproj=C:\Users\jalej\Documents\RAD\Project1.cbproj</Transaction>
+    <Transaction>2023/04/22 19:25:36.000.091,C:\Users\jalej\Documents\RAD\MemoriaTarea\Project1PCH1.h=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
